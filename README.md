@@ -28,7 +28,7 @@ Mis objetivos son seguir aprendiendo desarrollo web, perfeccionar mis conocimien
 LinkedIn: https://www.linkedin.com/in/emanuel-zani-929716145/
 
 
-Correo: manuzani10@gmail.com 👋
+Correo: manuzani10@gmail.com 
 
 <!--
 **Emanuel-Zani/Emanuel-Zani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
